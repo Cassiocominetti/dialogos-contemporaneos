@@ -58,7 +58,7 @@ realizado na vercel para melhor experiência visual.
 
 Todos os links importantes podem ser encontrados ao fim desse documento.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
 A título de projeto de estudo, a criação de um podcast utilizando IAs genarativas
 foi de grande valia, uma vez que foi necessário aplicar vários conhecimentos de

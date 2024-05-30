@@ -15,6 +15,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding: 0 1rem;
 }
 
 header {
@@ -22,12 +23,13 @@ header {
   justify-content: center;
   background-color: #2a2a2a;
   gap: 20px;
-  width: 100vw;
+  width: 100%;
   padding: 20px;
 }
 
 header h1 {
   font-size: 2.5rem;
+  text-align: center;
 }
 
 .language-switch button img {
@@ -42,7 +44,8 @@ header h1 {
 }
 
 main {
-  width: 40rem;
+  width: 100%;
+  max-width: 40rem;
   padding: 2rem;
 }
 
@@ -54,10 +57,11 @@ main {
   padding: 1.25rem;
   border-radius: 0.625rem;
   margin-bottom: 20px;
+  width: 100%;
 }
 
 .podcast-image {
-  max-width: 12.75rem;
+  max-width: 100%;
   border-radius: 0.625rem;
   margin-bottom: 1.25rem;
 }
@@ -65,11 +69,12 @@ main {
 .episode-info h2 {
   font-size: 1.2rem;
   margin-bottom: 0.625rem;
+  text-align: center;
 }
 
 audio {
   width: 100%;
-  max-width: 31rem;
+  max-width: 100%;
 }
 
 .language-switch {
@@ -94,16 +99,19 @@ p {
 
 footer {
   display: flex;
+  flex-direction: column;
   gap: 25px;
   align-items: center;
   justify-content: center;
   padding: 10px;
-  width: 100vw;
+  width: 100%;
   background-color: #2a2a2a;
+  box-sizing: border-box;
 }
 
 footer h2 {
   font-size: 0.9rem;
+  text-align: center;
 }
 
 .social {
@@ -126,17 +134,15 @@ a img {
 }
 
 @media (max-width: 639px) {
-  header {
-    width: 641px;
-    margin-inline: auto;
-  }
-
   main {
-    margin-inline: auto;
+    padding: 1rem;
   }
 
-  footer {
-    width: 641px;
-    margin-inline: auto;
+  .podcast-info {
+    padding: 1rem;
+  }
+
+  .episode-info h2 {
+    font-size: 1.1rem;
   }
 }
