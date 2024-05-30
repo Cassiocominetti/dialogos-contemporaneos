@@ -14,7 +14,7 @@ Abaixo uma lista das principais IAs generativas e outras ferramentas utilizadas:
 - ChatGPT 3.5 - criação de roteiro, criação de projeto (HTML, CSS, JavaScript), traduções;
 - Google AI Studio (Gemini 1.5 Flash) - revisão de traduções, revisão de códigos;
 - Eleven Labs - geração de voz através de textos (text-to-speech (TTS));
-- Audio Joiner da 123APS - fusão de vários arquivos de áudio em um único arquivo .mp3;
+- Audio Joiner da 123apps - fusão de vários arquivos de áudio em um único arquivo .mp3;
 - CapCut - inserção, fusão e edição de áudios de voz e de ambiente;
 - Gencraft - geração de imagens;
 - Corel Draw - pequenas edições em ícones e imagens;
@@ -34,7 +34,7 @@ Neste etapa foi utilizado o Gencraft.
 
 A construção e edição de áudio foi realizada em etapas, primeiramente através da
 geração de voz a partir de texto, utilizando o Eleven Labs. Logo após essa etapa,
-os áudios foram unificados utilizando o Audio Joiner, da 123APS. As edições e inserções
+os áudios foram unificados utilizando o Audio Joiner, da 123apps. As edições e inserções
 de áudios de voz e ambiente foram realizadas através do CapCut, e por fim, a extração
 de áudio atraves de vídeo foi realizada utilizando o extrator de audio da BeeCut.
 
@@ -56,7 +56,8 @@ O resultado obtido pelo projeto foi a criação de um podcast fictício chamado
 O mesmo está disponível tanto em repositório público no github, quanto em deploy
 realizado na vercel para melhor experiência visual.
 
-Todos os links importantes podem ser encontrados ao fim desse documento.
+Todos os links importantes podem ser encontrados ao fim desse documento, incluso
+o link do deploy do projeto na vercel.
 
 ## 💭 Reflexão
 
@@ -84,10 +85,11 @@ de uma IA.
 
 ## 🔗 Links
 
+- [Deploy Vercel](https://dialogos-contemporaneos.vercel.app/)
 - [ChatGPT](https://chatgpt.com/)
 - [Google AI Studio](https://ai.google.dev/aistudio)
 - [Eleven Labs](https://elevenlabs.io/)
-- [Audio Joiner da 123APS](https://audio-joiner.com/pt/)
+- [Audio Joiner da 123apps](https://audio-joiner.com/pt/)
 - [CapCut](https://www.capcut.com/pt-br/)
 - [Gencraft](https://gencraft.com/generate)
 - [Beecut](https://beecut.com/pt/extract-audio-online)
