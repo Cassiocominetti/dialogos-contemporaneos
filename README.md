@@ -1,6 +1,6 @@
 # Projeto "Podcast Diálogos Contemporâneos"
 
-<img src="./assets/Preview.JPG" alt="Preview da página do podcast" width="600"/>
+<img src="./assets/Preview.JPG" alt="Preview da página do podcast" width="full"/>
 
 ## 📒 Descrição
 
