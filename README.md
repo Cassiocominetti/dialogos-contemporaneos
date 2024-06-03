@@ -85,6 +85,7 @@ de uma IA.
 
 ## 🔗 Links
 
+- [Repositório no GitHub](https://github.com/Cassiocominetti/dialogos-contemporaneos)
 - [Deploy Vercel](https://dialogos-contemporaneos.vercel.app/)
 - [ChatGPT](https://chatgpt.com/)
 - [Google AI Studio](https://ai.google.dev/aistudio)
